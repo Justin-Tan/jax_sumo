@@ -10,6 +10,6 @@ python3 train.py -h
 ```
 
 ### Samples from surrogate
-![Image](/assets/plots/density_0.png)
-![Image](/assets/plots/density_20000.png)
-![Image](/assets/plots/density_50000.png)
+![Image](/assets/density_0.png)
+![Image](/assets/density_20000.png)
+![Image](/assets/density_50000.png)
