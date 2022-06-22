@@ -5,7 +5,7 @@ jax==0.1.72
 jaxlib==0.1.51
 kiwisolver==1.2.0
 matplotlib==3.3.0
-numpy==1.19.0
+numpy==1.22.0
 opt-einsum==3.3.0
 Pillow==7.2.0
 pyparsing==2.4.7
